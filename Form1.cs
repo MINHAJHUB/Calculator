@@ -36,10 +36,11 @@ namespace calculator
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int num1, num2, res;
+            int num1, num2;
+            float res;
             num1 = Convert.ToInt32(textBox1.Text);
             num2 = Convert.ToInt32(textBox2.Text);
-            res = num1 / num2;
+            res = (float)(num1) / (float)(num2);
             label5.Text = res.ToString();
         }
 

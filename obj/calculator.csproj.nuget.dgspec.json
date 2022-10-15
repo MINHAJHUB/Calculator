@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\New_dot_net_projects\\apon\\minhaj\\calculator\\calculator\\calculator.csproj": {}
+    "D:\\assignment\\minhaj\\calculator\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\New_dot_net_projects\\apon\\minhaj\\calculator\\calculator\\calculator.csproj": {
+    "D:\\assignment\\minhaj\\calculator\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\New_dot_net_projects\\apon\\minhaj\\calculator\\calculator\\calculator.csproj",
+        "projectUniqueName": "D:\\assignment\\minhaj\\calculator\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\New_dot_net_projects\\apon\\minhaj\\calculator\\calculator\\calculator.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\New_dot_net_projects\\apon\\minhaj\\calculator\\calculator\\obj\\",
+        "projectPath": "D:\\assignment\\minhaj\\calculator\\calculator\\calculator.csproj",
+        "packagesPath": "C:\\Users\\MINHAJ\\.nuget\\packages\\",
+        "outputPath": "D:\\assignment\\minhaj\\calculator\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MINHAJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
